@@ -16,7 +16,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
   ![](https://img.shields.io/badge/label-${data.licensing}-green)
-  ## Despription 
+  ## Description 
   ${data.description}
 
   ## Table of Contents
@@ -37,7 +37,7 @@ function generateMarkdown(data) {
   ${data.repo}
 
   ## License
-  This project in licensed under the ${data.licensing} license.
+  This project is licensed under the ${data.licensing} license.
 
   ## Contributing
   If you would like to contribute:
