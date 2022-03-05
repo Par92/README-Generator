@@ -21,6 +21,10 @@
   User should copy the link associated with this repository, and then type the command git clone with the copied link. Then the user should locate the index.js file and type "node js" in their terminal. After the user answers a series of prompts, the application will generate their new README file.
   ![](/utils/Untitled_%20Mar%204%2C%202022%205_00%20PM.mp4)
 
+
+https://user-images.githubusercontent.com/97469705/156859654-02bfcc98-d74e-46fb-8fbc-27768745ec16.mp4
+
+
   ## License
   This project is licensed under the MIT license.
 
